@@ -1,0 +1,9 @@
+
+umount -l /share/tools
+umount -l /share/data
+umount -l /share/data2
+
+
+
+
+
